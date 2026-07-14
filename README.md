@@ -68,4 +68,3 @@ MIT License - Libre para usar y modificar
 
 Hecho con ❤️
 
-https://img.shields.io/github/stars/ix-company/zenforce-pro?style=social
